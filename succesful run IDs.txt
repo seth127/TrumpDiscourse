@@ -1,0 +1,9 @@
+H9FJGD - all groups
+PYT2D3 - all groups
+JGCGNR - all groups (no file labels)
+
+WJOTY1 - only 2016 groups
+
+THESE ARE ensembl2docs WITH TRUMP INCLUDED IN THE CV (so he ends up being whatever we say he is)
+NL96XR - all groups (with fake Trump rankings of 1 and 7 to test cv)
+OL6G3J - all groups (with fake Trump rankings of 3 and 4 to test cv)

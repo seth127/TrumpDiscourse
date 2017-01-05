@@ -1,0 +1,7 @@
+,group,filepath,subgroup
+0,TrumpRemarks,./TrumpTexts/TrumpRemarks/raw/Trump_Campaign_Remarks_2015-06-16.txt,test1
+1,TrumpRemarks,./TrumpTexts/TrumpRemarks/raw/Trump_Campaign_Remarks_2016-03-21.txt,test0
+2,TrumpRemarks,./TrumpTexts/TrumpRemarks/raw/Trump_Campaign_Remarks_2016-04-27.txt,test2
+3,TrumpStatements,./TrumpTexts/TrumpStatements/raw/Trump_Campaign_Statement_2015-07-14.txt,test1
+4,TrumpStatements,./TrumpTexts/TrumpStatements/raw/Trump_Campaign_Statement_2015-07-15.txt,test2
+5,TrumpStatements,./TrumpTexts/TrumpStatements/raw/Trump_Campaign_Statement_2015-11-11.txt,test0

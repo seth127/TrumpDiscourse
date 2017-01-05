@@ -1,0 +1,561 @@
+<html>
+<head>
+<title>2016 Election Speeches and Remarks</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="President of the United States, presidency, American Presidency, American President, Public Papers of the Presidents, State of the Union Address, Inaugural Address, Presidents, American Presidents, George W. Bush, Bill Clinton, George Bush, Ronald Reagan, Jimmy Carter, Gerald Ford, Richard Nixon, Lyndon Johnson, John F. Kennedy. John Kennedy, Dwight Eisenhower, Harry Truman, FDR, Franklin Roosevelt, Presidential Elections, Presidential Rhetoric" name="keywords"/>
+<meta content="The American Presidency Project contains the most comprehensive collection of resources pertaining to the study of the President of the United States.  Compiled by John Woolley and Gerhard Peters" name="description"/>
+<link href="http://www.presidency.ucsb.edu/styles/main.css" rel="stylesheet" type="text/css"/>
+<!-- BEGIN Tynt Script -->
+<!-- <script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('cJ3hqqsgCr4i0xadbi-bpO');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>-->
+<!-- END Tynt Script --><link href="styles/main.css" rel="stylesheet" type="text/css"/>
+<script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td background="images/bg.gif" bgcolor="#8497AD" rowspan="3" width="50%"> </td>
+<td bgcolor="#000000" rowspan="3" width="1"><img src="images/spacer.gif" width="1"/></td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="956">
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" width="956">
+<tr>
+<td width="29"><img alt="" height="29" src="http://www.presidency.ucsb.edu/images/b1.gif" width="29"/></td>
+<td width="26"><a href="../index.php"><img alt="Home" border="0" height="29" src="http://www.presidency.ucsb.edu/images/l1.gif" width="26"/></a></td>
+<td width="35"><img alt="" height="29" src="http://www.presidency.ucsb.edu/images/b2.gif" width="35"/></td>
+<td width="23"><a href="../index_pppus.php"><img alt="Search" border="0" height="29" src="http://www.presidency.ucsb.edu/images/l2.gif" width="23"/></a></td>
+<td width="33"><img alt="" height="29" src="http://www.presidency.ucsb.edu/images/b3.gif" width="33"/></td>
+<td width="24"><a href="#" onclick="window.print()"><img alt="" border="0" height="29" src="http://www.presidency.ucsb.edu/images/headspace2.gif" width="24"/></a></td>
+<td width="589"><a href="../index.php"><img alt="The American Presidency Project" border="0" height="29" src="http://www.presidency.ucsb.edu/images/b4.gif" width="589"/></a></td>
+<td width="197"><a href="#" onclick="window.print()"><img alt="" border="0" height="29" src="http://www.presidency.ucsb.edu/images/headspace2.gif" width="197"/></a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><a href="../index.php"><img alt="" border="0" height="93" src="http://www.presidency.ucsb.edu/images/designstud2009.jpg" width="956"/></a></td>
+</tr>
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" width="956">
+<tr>
+<td width="441"><img alt="John Woolley and Gerhard Peters" height="32" src="http://www.presidency.ucsb.edu/images/lates.gif" width="441"/></td>
+<td width="39"><a href="../index.php"><img alt="Home" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m1.gif" width="39"/></a></td>
+<td width="44"><a href="../data.php"><img alt="Data" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m2.gif" width="44"/></a></td>
+<td width="66"><a href="../index_docs.php"><img alt="Documents" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m3.gif" width="66"/></a></td>
+<td width="56"><a href="../elections.php"><img alt="Elections" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m4.gif" width="56"/></a></td>
+<td width="50"><a href="../media.php"><img alt="Media" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m5.gif" width="50"/></a></td>
+<td width="53"><a href="../libraries.php"><img alt="Links" border="0" height="32" src="http://www.presidency.ucsb.edu/images/m6.gif" width="53"/></a></td>
+<td width="207"><img alt="" height="32" src="http://www.presidency.ucsb.edu/images/m0.gif" width="207"/></td>
+</tr>
+</table></td>
+</tr>
+</table> </td>
+<td bgcolor="#000000" rowspan="3" width="1"><img src="images/spacer.gif" width="1"/></td>
+<td background="images/bg.gif" bgcolor="#8497AD" rowspan="3" width="50%"> </td>
+</tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="956"><tr><td valign="top" width="180"><table bgcolor="#8497AD" border="0" cellpadding="1" cellspacing="0" width="180">
+<tr>
+<td><table align="left" border="0" cellpadding="0" cellspacing="0" width="180">
+<tr>
+<td align="center" bgcolor="#8497AD" class="menuhead"><img alt="" src="../images/presseal.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFFFF" class="menuhead"><a href="https://www.giveucsb.com/APP.htm"><img alt="Donate Now" border="0" height="296" src="http://www.presidency.ucsb.edu/images/donate180.jpg" width="160"/></a></td>
+</tr>
+<tr>
+<td bgcolor="#8497AD" class="menuhead" style="padding-left:5px">Document Archive</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/ws">• Public Papers of the Presidents</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/sou.php">• State of the Union<br/>
+          Addresses &amp; Messages</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/inaugurals.php">• Inaugural Addresses</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/farewell_addresses.php">• Farewell  Addresses</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/satradio.php">• Weekly  Addresses</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/fireside.php">• Fireside Chats</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/news_conferences.php">• News Conferences</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/executive_orders.php">• Executive Orders</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/proclamations.php">• Proclamations</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/signingstatements.php">• Signing Statements</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/press_briefings.php">• Press Briefings </a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/saps.php">• Statements of<br/>
+           Administration Policy</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/economic_reports.php">• Economic Report of the President</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/debates.php">• Debates</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/nomination.php">• Convention Speeches</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/platforms.php">• Party Platforms</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/2016_election.php">• 2016 Election Documents</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/2012_election.php">• 2012 Election Documents </a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/2008_election.php">• 2008 Election Documents </a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/2004_election.php">• 2004 Election Documents </a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/1960_election.php">• 1960 Election Documents </a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/transition2017.php">• 2017 Transition</a></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/transition2009.php">• 2009 Transition</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/transition2001.php">• 2001 Transition</a></td>
+</tr>
+<tr>
+<td bgcolor="#8497AD" class="menuhead" style="padding-left:5px">Data Archive </td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/data.php">Data Index</a></td>
+</tr>
+<tr>
+<td bgcolor="#8497AD" class="menuhead" style="padding-left:5px">Media Archive</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/media.php">Audio/Video Index</a></td>
+</tr>
+<tr>
+<td bgcolor="#8497AD" class="menuhead" style="padding-left:5px">Elections</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/elections.php">Election Index</a></td>
+</tr>
+<tr>
+<td bgcolor="#F7FAFD" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/florida2000.php">Florida 2000</a></td>
+</tr>
+<tr>
+<td bgcolor="#8497AD" class="menuhead" style="padding-left:5px">Links</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="tah11" style="padding-left:5px"><a class="tah11" href="http://www.presidency.ucsb.edu/libraries.php">Presidential Libraries</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</td>
+<td valign="top" width="740">
+<p align="center"><span class="doctitle">  <br/>
+    2016 Presidential Election Speeches and Remarks </span></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="700">
+<tr>
+<td class="colname" valign="top" width="150">Actor</td>
+<td class="colname" width="150">Date</td>
+<td class="colname" width="450">Title</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">June 16, 2015</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=110306">Remarks Announcing Candidacy for President in New York City</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">March 21, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=116597">Remarks at the AIPAC Policy Conference in Washington, DC</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">April 27, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=117813">Remarks on Foreign Policy at the National Press Club in Washington, DC</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">June 13, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=117775">Remarks at Saint Anselm College in Manchester, New Hampshire</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">June 22, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=117790">Remarks at Trump SoHo in New York City</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">July 11, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=117815">Remarks in Virginia Beach, Virginia</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">July 16, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=117791">Remarks Introducing Governor Mike Pence as the 2016 Republican Vice Presidential Nominee in New York City</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">July 21, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=117935">Address Accepting the Presidential Nomination at the Republican National Convention in Cleveland, Ohio</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">July 27, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=118047">News Conference in Doral, Florida</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">August 8, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119744">Remarks to the Detroit Economic Club</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">August 15, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119503">Remarks at Youngstown State University in Youngstown, Ohio</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">August 16, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119165">Remarks at the Washington County Fair Park in West Bend, Wisconsin</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">August 18, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119175">Remarks at the Charlotte Convention Center in Charlotte, North Carolina</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">August 23, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119176">Remarks at Luedecke Arena in Austin, Texas</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">August 30, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119806">Remarks at the XFinity Arena in Everett, Washington</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">August 31, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119805">Remarks on Immigration at the Phoenix Convention Center in Phoenix, Arizona</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 1, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119196">Remarks to the American Legion in Cincinnati, Ohio</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 1, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119198">Remarks at the Roberts Centre in Wilmington, Ohio</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 3, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119199">Remarks at Great Faith International Ministries in Detroit, Michigan</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 6, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119197">Remarks at a Rally at the Greenville Convention Center in Greenville, North Carolina</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 7, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119177">Remarks at the Union League of Philadelphia in Philadelphia, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 8, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119195">Remarks at the Cleveland Arts and Social Sciences Academy in Cleveland, Ohio</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 9, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119194">Remarks to the 11th Annual Values Voter Summit in Washington, DC Omni Shoreham Hotel, Washington, D.C.</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 9, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119204">Remarks at a Rally at the Pensacola Bay Center in Pensacola, Florida</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 12, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119178">Remarks at the US Cellular Center in Asheville, North Carolina</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 12, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119205">Address to the National Guard Association of the United States 138th General Conference &amp; Exhibition at the Baltimore Convention Center in Baltimore, Maryland</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 13, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119193">Remarks at Aston Community Center in Aston, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 13, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119206">Remarks at Seven Flags Event Center in Des Moines, Iowa</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 14, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119190">Remarks at a Rally at Canton Memorial Civic Center in Canton, Ohio</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 15, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119209">Remarks to the Economic Club of New York at the Waldorf Astoria in New York City</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 16, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119208">Remarks at a Rally at the James L. Knight Center in Miami, Florida</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 17, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119207">Remarks at the Remembrance Project Luncheon at the Omni Houston Hotel at Westside in Houston, Texas</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 20, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119192">Remarks at High Point University in High Point, North Carolina</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 22, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119189">Remarks at a Rally at Sun Center Studios in Chester Township, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 22, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119191">Remarks at the Shale Insight TM Conferencee at the David L. Lawrence Convention Center in Pittsburgh, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 24, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119203">Remarks at a Rally at Berglund Center in Roanoke, Virginia</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 28, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119200">Remarks at a Rally at the Mid-America Center in Council Bluffs, Iowa</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 28, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119201">Remarks at a Rally at Waukesha County Expo Center in Waukesha, Wisconsin</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">September 29, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119202">Remarks at a Rally at the New Hampshire Sportsplex in Bedford, New Hampshire</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">September 30, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119179">Remarks at the Suburban Collection Showplace in Novi, Michigan</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 3, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119166">Remarks at the Pueblo Convention Center in Pueblo, Colorado</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 3, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119167">Remarks at the Budweiser Events Center in Loveland, Colorado</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 4, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119168">Remarks at Prescott Valley Event Center in Prescott Valley, Arizona</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 5, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119169">Remarks at Henderson Pavilion in Henderson, Nevada</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 5, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119170">Remarks at the Reno-Sparks Convention Center in Reno, Nevada</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 11, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119171">Excerpts of Remarks at Aaron Bessant Park in Panama City, Florida</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 13, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119173">Remarks at the Renaissance Hotel in Columbus, Ohio</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 13, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119180">Remarks at the South Florida Fair Expo Center in West Palm Beach, Florida</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 15, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119172">Remarks at the Cross Insurance Center in Bangor, Maine</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 15, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119174">Remarks at Toyota of Portsmouth in Portsmouth, New Hampshire </a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 17, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119183">Remarks at the KI Convention Center in Green Bay, Wisconsin</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 20, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119184">Remarks at the Delaware County Fairgrounds in Delaware, Ohio</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 21, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119185">Remarks at the WNC Agricultural Center's Davis Event Center in Fletcher, North Carolina</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 21, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119186">Remarks at the Newtown Athletic Club Sports Training Center in Newtown, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 22, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119875">Remarks on Proposals for the First 100 Days in Office at the Eisenhower Complex in Gettysburg, Pennsylvania</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 23, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119187">Remarks at the Collier County Fairgrounds in Naples, Florida</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 26, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119188">Remarks at McGlohon Theatre at Spirit Square in Charlotte, North Carolina</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">October 29, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119181">Remarks at the Jeffco Fairgrounds Event Center in Golden, Colorado</a></td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ffffff" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#ffffff" class="listdate" valign="top">October 29, 2016</td>
+<td bgcolor="#ffffff" class="listdate" valign="top"><a href="../ws/index.php?pid=119182">Remarks at the Phoenix Convention Center in Phoenix, Arizona</a></td>
+</tr>
+<tr bgcolor="#f7fafd">
+<td bgcolor="#f7fafd" class="listdate" valign="top">Donald J. Trump</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top">November 9, 2016</td>
+<td bgcolor="#f7fafd" class="listdate" valign="top"><a href="../ws/index.php?pid=119495">Remarks in New York City Accepting Election as the 45th President of the United States</a></td>
+</tr>
+</table>
+<br/>
+<hr color="#CCCC99" noshade="" size="1"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table background="http://www.presidency.ucsb.edu/images/bgdown.gif" border="0" cellpadding="0" cellspacing="0" width="956">
+<tr>
+<td align="center" height="25" width="956">
+<a class="tah11" href="../index.php" style="color:000000;font-weight:bold">Home</a>         
+			<script>
+<!--
+function escramble(){
+ var a,b,c,d,e,f,g,h,i
+ a='<a href=\"mai'
+ b='director'
+ c='\" class=tah11 style=color:000000;font-weight:bold>'
+ a+='lto:'
+ b+='@'
+ e='</a>'
+ f='Contact'
+ b+='americanpresidency.org'
+ g='<img src=\"'
+ h=''
+ i='\" alt="e-mail" border="0">'
+
+ if (f) d=f
+ else if (h) d=g+h+i
+ else d=b
+
+ document.write(a+b+c+d+e)
+}
+
+escramble()
+//-->
+</script> </td>
+</tr>
+<tr>
+<td align="center" height="32" valign="top" width="956">
+<div class="tah11" style="padding-top:7;color:000000">
+© 1999-2017 - Gerhard Peters and John T. Woolley - The American Presidency Project</div></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="956">
+<tr>
+<td align="center"><a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.presidency.ucsb.edu" id="clustrMapsLink"><img alt="Locations of visitors to this page" border="0" id="clustrMapsImg" name="clustrMapsImg" onerror="this.onError=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com'" src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.presidency.ucsb.edu" style="border:1px solid;" title="Locations of visitors to this page"/></a></td>
+</tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2243865-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script> </td>
+</tr>
+</table>
+</body>
+</html>
