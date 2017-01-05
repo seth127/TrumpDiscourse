@@ -1,3 +1,4 @@
+#rawdf <- read.csv("newDocsPredictions-coco_3_cv_3_netAng_30_twc_15_tfidfNoPro_pronounFrac_bin_1-H9FJGD.csv", stringsAsFactors = F)
 
 cleanTrumpPredictions <- function(rawdf) {
   splitGroupId <- function(groupIdVector) {
