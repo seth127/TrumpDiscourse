@@ -32,8 +32,8 @@ cleanTrumpPredictions <- function(rawdf) {
   df <- data.frame(type = stringList[[1]],
                    title = stringList[[2]],
                    date = as.Date(stringList[[3]], format = "%B %d, %Y"),
-                   rfReg = rawdf$rfPred,
-                   svmReg = rawdf$svmPred,
+                   rfReg = round(rawdf$rfPred,2),
+                   svmReg = round(rawdf$svmPred,2),
                    rfClass = rawdf$rfClassPred,
                    svmClass = rawdf$svmClassPred)
   
